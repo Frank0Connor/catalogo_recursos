@@ -1,0 +1,2 @@
+¿Por qué el repositorio que tienes ahora en tu computadora no es el mismo concepto que el fork creado en GitHub?
+-Por que es una copia de la maquina inicial, por lo que no viene con el entorno con el que se hizo
