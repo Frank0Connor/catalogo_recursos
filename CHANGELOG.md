@@ -12,3 +12,5 @@ catalogo_recursos/
 │ └── evidencias/
 │ 
 └── tests/
+│ 
+└── documentacion adicional/
