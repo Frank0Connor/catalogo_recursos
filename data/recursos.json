@@ -11,6 +11,12 @@
       "tipo": "Computadora CC1",
       "en_uso": false,
       "instalado": 2021
+    },
+    {
+      "codigo": "C015",
+      "tipo": "Computadora Simulación",
+      "en_uso": true,
+      "instalado": 2024
     }
   ]
 }
