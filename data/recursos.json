@@ -1,0 +1,16 @@
+{
+  "dispositivos": [
+    {
+      "codigo": "C001",
+      "tipo": "Computadora Administración",
+      "en_uso": true,
+      "instalado": 2025
+    },
+    {
+      "codigo": "C002",
+      "tipo": "Computadora CC1",
+      "en_uso": false,
+      "instalado": 2021
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+print("catalogo_recursos")
