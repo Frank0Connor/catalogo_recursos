@@ -43,3 +43,9 @@ catalogo_recursos/
 - Tiempo de respuesta reducido a mínimo 3 segundos
 - Una mayor capacidad de almacenamiento
 - Emplear un manual de uso
+
+## Tipos de recursos
+-Recurso humano
+-Recurso material
+-Tecnologia
+-IA

@@ -6,3 +6,5 @@
 - tipo de dispositivo
 - actividad y uso
 - fecha de instalación
+- portabilidad
+- fecha de termino
